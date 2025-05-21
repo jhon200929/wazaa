@@ -130,3 +130,7 @@
 [21May2025 19:36:18.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_frijol2113s left the game
 [21May2025 19:36:20.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wazaa307 lost connection: Disconnected
 [21May2025 19:36:20.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wazaa307 left the game
+[21May2025 19:41:08.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wazaa307[/127.127.217.130:47791] logged in with entity id 1732 at (-20.470852248171305, 69.0, 0.48122438444308974)
+[21May2025 19:41:08.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wazaa307 joined the game
+[21May2025 19:46:27.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: apael213[/127.127.217.130:47617] logged in with entity id 2562 at (-7.5, 71.0, 6.5)
+[21May2025 19:46:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: apael213 joined the game
