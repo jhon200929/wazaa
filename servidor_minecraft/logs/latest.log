@@ -109,3 +109,24 @@
 [21May2025 19:07:56.400] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 31251 ms
 [21May2025 19:07:56.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (39.058s)! For help, type "help"
 [21May2025 19:07:56.417] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21May2025 19:27:55.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wazaa307[/127.127.217.130:55053] logged in with entity id 358 at (-4.5, 82.0, -4.5)
+[21May2025 19:27:55.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wazaa307 joined the game
+[21May2025 19:31:55.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wazaa307 lost connection: Disconnected
+[21May2025 19:31:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wazaa307 left the game
+[21May2025 19:34:10.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wazaa307[/127.127.217.130:48713] logged in with entity id 1298 at (-23.658999824509447, 69.0, 7.61809228551512)
+[21May2025 19:34:10.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wazaa307 joined the game
+[21May2025 19:34:34.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: el_frijol2113s[/127.231.0.15:50971] logged in with entity id 1437 at (-9.5, 75.0, 6.5)
+[21May2025 19:34:34.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_frijol2113s joined the game
+[21May2025 19:34:42.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_frijol2113s> el diavlo
+[21May2025 19:34:50.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wazaa307> hay lag ?
+[21May2025 19:34:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_frijol2113s> nel
+[21May2025 19:35:00.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wazaa307> que rico
+[21May2025 19:35:43.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wazaa307> quiero meter mods eso are luego
+[21May2025 19:35:46.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wazaa307 fell from a high place
+[21May2025 19:35:51.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_frijol2113s> oc
+[21May2025 19:36:09.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <el_frijol2113s> me voy a jugar otra cosa, luego jugamo
+[21May2025 19:36:17.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wazaa307> ok
+[21May2025 19:36:18.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: el_frijol2113s lost connection: Disconnected
+[21May2025 19:36:18.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_frijol2113s left the game
+[21May2025 19:36:20.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wazaa307 lost connection: Disconnected
+[21May2025 19:36:20.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wazaa307 left the game
