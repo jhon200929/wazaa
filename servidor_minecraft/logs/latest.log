@@ -1391,3 +1391,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [20:47:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 left the game
 [20:48:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Timed out
 [20:48:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[20:50:18] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[20:50:18] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 51 mods : extendedrenderer@v1.0,dldungeonsjbg@1.14.14,cgm@0.15.3,configmod@v1.0,jei@4.16.1.1013,ivtoolkit@1.3.3-1.12,techguns_core@1.12.2-1.0,bettercaves@1.12.2,mcp@9.42,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,mo@1.0,betteranimalsplus@9.0.1,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,omlib@3.1.5-256,additionalstructures@2.5.0,hordes@1.5.3a,minetraps@1.0.4,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,firstaid@1.6.22,forge@14.23.5.2860,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@@VERSION@,minecraft@1.12.2,advancedrifles@0.6.0,biomesoplenty@7.0.1.2444,reccomplex@1.4.8.6,vehicle@0.44.1,horror_elements_mod@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,gravestone@1.10.3,mobsunscreen@@version@,securitycraft@v1.10,autoreglib@1.3-32,betteranimals@5.5.0,backpacked@1.4.2,toughasnails@3.1.0.141,mobamputation@7.0.0,FML@8.0.99.99,obfuscate@0.4.2,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,cfm@6.3.0,hw_inv@1.12.1-1.1.13,mobends@1.2.1,techguns@2.0.2.0
+[20:50:18] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[20:50:18] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [lostcities] at CLIENT
+[20:50:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:50:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: apael213[/127.146.174.236:60577] logged in with entity id 36978 at (-483.38773719077255, 64.0, 370.36090222268115)
+[20:50:19] [Server thread/INFO] [dsurround]: Player [apael213] connected with Dynamic Surroundings @VERSION@
+[20:50:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 joined the game
+[20:51:03] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[20:51:03] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 51 mods : extendedrenderer@v1.0,dldungeonsjbg@1.14.14,cgm@0.15.3,configmod@v1.0,jei@4.16.1.1013,ivtoolkit@1.3.3-1.12,techguns_core@1.12.2-1.0,bettercaves@1.12.2,mcp@9.42,journeymap@1.12.2-5.7.1p2,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,mo@1.0,betteranimalsplus@9.0.1,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,omlib@3.1.5-256,additionalstructures@2.5.0,hordes@1.5.3a,minetraps@1.0.4,ichunutil@7.2.2,firstaid@1.6.22,forge@14.23.5.2859,openmodularturrets@3.1.14-382,orelib@3.6.0.1,dsurround@@VERSION@,minecraft@1.12.2,advancedrifles@0.6.0,biomesoplenty@7.0.1.2444,reccomplex@1.4.8.6,vehicle@0.44.1,horror_elements_mod@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,gravestone@1.10.3,mobsunscreen@@version@,securitycraft@v1.10,autoreglib@1.3-32,betteranimals@5.5.0,backpacked@1.4.2,toughasnails@3.1.0.141,lostcities@2.0.22,mobamputation@7.0.0,FML@8.0.99.99,obfuscate@0.4.2,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,cfm@6.3.0,hw_inv@1.12.1-1.1.13,mobends@1.2.1,techguns@2.0.2.0
+[20:51:03] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[20:51:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:51:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Bicho_129[/127.124.40.108:44177] logged in with entity id 37419 at (-497.5857003781704, 64.0, 369.76607586945465)
+[20:51:05] [Server thread/INFO] [dsurround]: Player [El_Bicho_129] connected with Dynamic Surroundings @VERSION@
+[20:51:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 joined the game
+[20:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by El_Bicho_129
+[20:52:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 has made the advancement [Isn't It Iron Pick]
+[20:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was slain by apael213
+[20:53:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:53:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:58:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 was kicked for floating too long!
+[20:58:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Flying is not enabled on this server
+[20:58:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game

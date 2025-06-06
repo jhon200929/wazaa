@@ -1482,6 +1482,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-06 20:52:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-06-05 21:28:51 +0000"
@@ -3342,6 +3348,13 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-05 21:28:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2025-06-06 20:54:25 +0000",
+      "red_flower": "2025-06-06 20:54:25 +0000"
     },
     "done": true
   },
