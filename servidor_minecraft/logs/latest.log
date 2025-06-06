@@ -676,3 +676,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [21:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 fell from a high place
 [21:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was slain by Zombie
 [21:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 has made the advancement [Unpleasant Sucking]
+[21:19:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 was shot by Skeleton
+[21:19:58] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:19:58] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:19:58] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:19:59] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:19:59] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:19:59] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:19:59] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating MeteorSite
+[21:19:59] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-18, 29] in dimension 0 (overworld) while populating chunk [-19, 30], causing cascading worldgen lag.
+[21:19:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:19:59] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating MeteorSite
+[21:19:59] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-18, 28] in dimension 0 (overworld) while populating chunk [-19, 30], causing cascading worldgen lag.
+[21:19:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:19:59] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing SmallOutpost
+[21:19:59] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-19, 31] in dimension 0 (overworld) while populating chunk [-19, 30], causing cascading worldgen lag.
+[21:19:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:20:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 was shot by Skeleton
+[21:22:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Bicho_129 lost connection: Disconnected
+[21:22:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Bicho_129 left the game
+[21:25:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: apael213 lost connection: Disconnected
+[21:25:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apael213 left the game
